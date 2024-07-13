@@ -1,0 +1,19 @@
+# ignore env
+env/
+__pycache__/
+
+# ignore pictures
+*.png
+*.jpg
+
+# ignore result data
+cloud/runs/
+cloud/cloudnoise/
+cloud/old/
+snellius/snellius_baseline/
+snellius/cloudnoise/
+snellius/fat_node/
+snellius/steps
+snellius/snellius_similar/
+snellius/snellius_similar_openmp/
+plots/

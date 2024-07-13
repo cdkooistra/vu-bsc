@@ -1,7 +1,0 @@
-static_vms:
-  - ip_address: '145.38.195.41'
-    user_name: 'connork'
-    ssh_private_key: '/home/connork/.ssh/id_ed25519'
-    ssh_port: 22
-    zone: 'single-vm'
-    os_type: 'ubuntu'

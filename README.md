@@ -1,2 +1,2 @@
 # vu-bsc
-Repository for my bachelor thesis at the VU
+Repository for my BSc Thesis SURF HPC Cloud.
